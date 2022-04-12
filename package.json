@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iasantosr/webapi-study/issues"
   },
-  "homepage": "https://github.com/iasantosr/webapi-study#readme"
+  "homepage": "https://github.com/iasantosr/webapi-study#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
 }
