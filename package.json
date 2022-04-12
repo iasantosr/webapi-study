@@ -1,0 +1,20 @@
+{
+  "name": "webapi-study",
+  "version": "1.0.0",
+  "description": "Repository to improve skills on web development (backend)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iasantosr/webapi-study.git"
+  },
+  "keywords": [],
+  "author": "iasantosr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iasantosr/webapi-study/issues"
+  },
+  "homepage": "https://github.com/iasantosr/webapi-study#readme"
+}
